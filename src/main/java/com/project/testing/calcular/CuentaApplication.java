@@ -1,13 +1,14 @@
-package com.estudios.junitmockito;
+package com.project.testing.calcular;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JunitMockitoApplication {
+public class CuentaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JunitMockitoApplication.class, args);
+		SpringApplication.run(CuentaApplication.class, args);
 	}
 
 }
+
